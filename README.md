@@ -1,2 +1,3 @@
-# skydash-lab
-Lab &amp; experiments
+# Skydash Lab
+
+Experiments.
